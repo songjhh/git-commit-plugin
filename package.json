@@ -1,21 +1,21 @@
 {
-    "name": "git-commit-plugin",
-    "displayName": "git-commit-plugin",
+    "name": "vscode-commit-template-plugin",
+    "displayName": "vscode-commit-template-plugin",
     "description": "Automatically generate git commit",
-    "version": "1.0.2",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.42.0"
     },
-    "publisher": "redjue",
+    "publisher": "songjhh",
     "license": "MIT",
-    "homepage": "https://github.com/RedJue/git-commit-plugin/blob/master/README.md",
+    "homepage": "https://github.com/songjhh/git-commit-plugin/blob/master/README.md",
     "bugs": {
-        "url": "https://github.com/RedJue/git-commit-plugin/issues"
+        "url": "https://github.com/songjhh/git-commit-plugin/issues"
     },
     "icon": "assets/logo.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/RedJue/git-commit-plugin"
+        "url": "https://github.com/songjhh/git-commit-plugin"
     },
     "keywords": [
         "git",
